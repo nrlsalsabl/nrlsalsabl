@@ -75,22 +75,14 @@
 <img src="https://img.shields.io/badge/CorelDRAW-00B04F?style=for-the-badge&logo=coreldraw&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>&nbsp;
 
-<br/>
-
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"/>&nbsp;
-
-<br/>
 
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Laragon-2E8B57?style=for-the-badge"/>&nbsp;
 
-<br/>
-
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>&nbsp;
-
-<br/>
 
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>&nbsp;
