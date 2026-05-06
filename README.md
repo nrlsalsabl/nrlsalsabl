@@ -108,10 +108,10 @@
 
 ---
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <div align="center">
   <div style="
-    max-width: 900px;
+    max-width: 400px;
     border: 1px solid #F78DA7;
     border-radius: 12px;
     padding: 10px 85px;
