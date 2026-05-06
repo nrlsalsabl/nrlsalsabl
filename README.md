@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nurul Salsabila</h1>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
 <tr>
 
-<td align="left">
+<td align="left" style="padding-right: 10px; vertical-align: middle;">
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=false&vCenter=true&width=400&lines=Passionate+IT+Student;Web+%26+Mobile+Developer;Always+Learning+New+Things+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=false&vCenter=true&width=380&lines=Passionate+IT+Student;Web+%26+Mobile+Developer;Always+Learning+New+Things+✨">
 </p>
 
 <p>
@@ -15,8 +15,8 @@
 
 </td>
 
-<td align="right">
-  <img src="https://raw.githubusercontent.com/nrlsalsabl/nrlsalsabl/dev/github-gift.gif" width="180"/>
+<td align="right" style="vertical-align: middle;">
+  <img src="https://raw.githubusercontent.com/nrlsalsabl/nrlsalsabl/dev/github-gift.gif" width="400"/>
 </td>
 
 </tr>
