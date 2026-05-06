@@ -107,7 +107,15 @@
 
 ---
 
-<p align="center">
-  🐾 Meow says: See you again! ✨ <br/>
-  Made with 💖 by <b>Nurul’z</b>
-</p>
+&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <div style="
+    max-width: 900px;
+    border: 1px solid #F78DA7;
+    border-radius: 12px;
+    padding: 10px 85px;
+    color: #F78DA7;
+  ">
+    🐾 Meow says: See you again! ✨ Made with 💖 by Nurul’z ✨
+  </div>
+</div>
