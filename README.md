@@ -1,28 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nurul Salsabila</h1>
 
-<table>
-  <tr>
-    <td width="60%" align="left">
+<table align="center">
+<tr>
+
+<td align="left">
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&left=true&vCenter=true&width=500&lines=Passionate+IT+Student;Web+%26+Mobile+Developer;Always+Learning+New+Things+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=false&vCenter=true&width=400&lines=Passionate+IT+Student;Web+%26+Mobile+Developer;Always+Learning+New+Things+✨">
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nrlsalsabl&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
 
-  <td>
-    <td width="70%" align="right">
-      <img src="https://raw.githubusercontent.com/nrlsalsabl/nrlsalsabl/dev/github-gift.gif" width="950"/>
-    </td>
-  </td>
-  
+</td>
+
+<td align="right">
+  <img src="https://raw.githubusercontent.com/nrlsalsabl/nrlsalsabl/dev/github-gift.gif" width="180"/>
+</td>
+
+</tr>
 </table>
 
 ---
 
 ### 🌸 About Me (Meow Mode 🐾)
+
 - 🌱 I’m currently learning **Python**
 - 🧑‍🎓 Undergraduate at **Universitas Dian Nusantara**
 - 💬 Ask me about **Web Development | Mobile Development**
@@ -32,24 +35,19 @@
 ---
 
 ### 📊 GitHub Stats
-<table>
 
-  <p align="left">
-    <tr>
-      <td align="left">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrlsalsabl&theme=radical"/>
-      </td>
-    <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrlsalsabl&theme=radical"/>
-    </td>
-     
-  </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrlsalsabl&theme=radical"/>
+</p>
 
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrlsalsabl&theme=radical"/>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nurul-salsabila-754a68221">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -65,25 +63,26 @@
 
 <p align="center">
 
-<!-- Design -->
 <img src="https://img.shields.io/badge/CorelDRAW-00B04F?style=for-the-badge&logo=coreldraw&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
-<!-- Code Editors -->
+<br/>
+
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"/>
 
-<!-- Backend / Local Server -->
+<br/>
+
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laragon-2E8B57?style=for-the-badge"/>
 
-<!-- Database -->
-<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white"/>
+<br/>
 
-<!-- Mobile Dev -->
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
-<!-- Web / Tools -->
+<br/>
+
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_AdSense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white"/>
@@ -99,21 +98,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrlsalsabl&show_icons=true&theme=radical&hide_border=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrlsalsabl&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=nrlsalsabl&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-&nbsp;&nbsp;&nbsp;
-<div align="center">
-  <div style="
-    max-width: 900px;
-    border: 1px solid #F78DA7;
-    border-radius: 12px;
-    padding: 10px 70px;
-    color: #F78DA7;
-  ">
-    🐾 Meow says: See you again! ✨ Made with 💖 by Nurul’z ✨
-  </div>
-</div>
+<p align="center">
+  🐾 Meow says: See you again! ✨ <br/>
+  Made with 💖 by <b>Nurul’z</b>
+</p>
