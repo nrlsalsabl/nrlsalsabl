@@ -36,8 +36,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrlsalsabl&theme=radical"/>&nbsp;
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrlsalsabl&theme=radical"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrlsalsabl&theme=radical"/>
 </p>
 
@@ -203,8 +206,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrlsalsabl&theme=github-compact&bg_color=0d1117&color=F78DA7&line=F78DA7&point=ffffff&area=true&hide_border=true"/>
 </p> -->
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrlsalsabl&show_icons=true&theme=radical&hide_border=true"/>&nbsp;&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrlsalsabl&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=nrlsalsabl&theme=radical&hide_border=true"/>
 </p>
 
