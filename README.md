@@ -128,26 +128,13 @@
 
 </p>
 
----
-
-## 🖥️ Local Development
-<p align="center">
-
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Laragon-2E8B57?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>&nbsp;
-
-</p>
-
----
-
-## 🔌 API & Integrations
+<!-- ## 🔌 API & Integrations
 <p align="center">
 
 <img src="https://img.shields.io/badge/Payment_Gateway-4CAF50?style=for-the-badge&logo=stripe&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JNE_API-E31E24?style=for-the-badge&logoColor=white"/>&nbsp;
 
-</p>
+</p> -->
 
 ---
 
@@ -173,6 +160,9 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CorelDRAW-00B04F?style=for-the-badge&logo=coreldraw&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Laragon-2E8B57?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>&nbsp;
 
 </p>
 
@@ -187,16 +177,14 @@
 
 </p>
 
----
-
-## 🔐 Security Testing
+<!-- ## 🔐 Security Testing
 <p align="center">
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MT_Manager-1E88E5?style=for-the-badge"/>&nbsp;
 <img src="https://img.shields.io/badge/Dopamine-6C63FF?style=for-the-badge"/>&nbsp;
 
-</p>
+</p> -->
 
 ---
 
