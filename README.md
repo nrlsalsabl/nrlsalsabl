@@ -113,18 +113,6 @@
 
 ---
 
-### 📈 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrlsalsabl&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nrlsalsabl&theme=radical&hide_border=true"/>
-</p>
-
----
-
 &nbsp;
 <div align="center">
   <div style="
